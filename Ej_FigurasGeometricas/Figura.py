@@ -1,0 +1,3 @@
+# Clase FIGURA
+class Figura():
+    
